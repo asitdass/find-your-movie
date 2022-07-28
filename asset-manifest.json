@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-your-movie/static/css/main.ab4ca018.css",
+    "main.js": "/find-your-movie/static/js/main.66aeee17.js",
+    "static/js/787.97728243.chunk.js": "/find-your-movie/static/js/787.97728243.chunk.js",
+    "index.html": "/find-your-movie/index.html",
+    "main.ab4ca018.css.map": "/find-your-movie/static/css/main.ab4ca018.css.map",
+    "main.66aeee17.js.map": "/find-your-movie/static/js/main.66aeee17.js.map",
+    "787.97728243.chunk.js.map": "/find-your-movie/static/js/787.97728243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4ca018.css",
+    "static/js/main.66aeee17.js"
+  ]
+}
